@@ -6,7 +6,8 @@ include: "*.view.lkml"
 
 
 explore: factvenue {
-  label: "Venue QAT"
+#  label: "Venue QAT"
+
   view_name: factvenue
 
   join: dimworklistvenue {
